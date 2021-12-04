@@ -7,8 +7,8 @@
   "scripts": {
     "start": "react-scripts start",
     "start:prod": "serve -s build -l 5003",
-    "lint": "eslint . --ext .ts,.tsx",
-    "lint:fix": "eslint . --ext .ts,.tsx --fix",
+    "lint": "eslint client --ext .ts,.tsx",
+    "lint:fix": "eslint client --ext .ts,.tsx --fix",
     "build": "react-scripts build",
     "test": "react-scripts test"
   },

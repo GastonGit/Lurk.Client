@@ -4,7 +4,7 @@
 # Hot Clips
 Automatically clips exciting and funny moments from Twitch in real-time and then showcases them on a website.
 
-![GIF Preview](client/public/HotClips.gif)
+![GIF Preview](public/HotClips.gif)
 
 # Features
 - Clip live Twitch streamers who are undergoing a spike in emote usage
@@ -31,6 +31,3 @@ The official API for Twitch clips is currently very limited
 ## APIs
 - [Twitch](https://dev.twitch.tv/docs/api/reference)
 - [TMI.JS](https://github.com/tmijs/docs/tree/gh-pages/_posts/v1.4.2)
-## How to set up
-- [Setup client](client/README.md)
-- [Setup server](server/README.md)
