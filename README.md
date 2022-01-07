@@ -1,7 +1,7 @@
 |Build|
 |----|
 | [![Node.js CI](https://github.com/GastonGit/Hot-Twitch-Clips/actions/workflows/node.js.yml/badge.svg)](https://github.com/GastonGit/Hot-Twitch-Clips/actions/workflows/node.js.yml) |
-# Hot Clips
+# Lurk
 Automatically clips exciting and funny moments from Twitch in real-time and then showcases them on a website.
 
 ![GIF Preview](public/HotClips.gif)

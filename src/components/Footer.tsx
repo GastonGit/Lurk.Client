@@ -14,7 +14,7 @@ export default class Footer extends React.Component<unknown, unknown> {
                 <div className="footer__content">
                     <Grid container>
                         <Grid item xs={4} sm={3} md={2}>
-                            <a href="https://github.com/GastonGit/Hot-Twitch-Clips">
+                            <a href="https://github.com/GastonGit/Lurk.Client">
                                 About
                             </a>
                         </Grid>

@@ -7,10 +7,10 @@ export default class Header extends React.Component<unknown, unknown> {
             <header className="header">
                 <div className="header__content">
                     <a
-                        href="https://gastongit.com/hotclips"
+                        href="https://gastongit.com/lurk"
                         className="header__link"
                     >
-                        Hot Twitch Clips
+                        Lurk
                     </a>
                 </div>
             </header>
