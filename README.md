@@ -4,6 +4,8 @@
 # Lurk
 Automatically clips exciting and funny moments from Twitch in real-time.
 
+Server/backend can be found [here](https://github.com/GastonGit/Lurk.Server)
+
 ![GIF Preview](public/HotClips.gif)
 
 # Features
