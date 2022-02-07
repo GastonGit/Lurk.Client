@@ -4,11 +4,11 @@
 }
 
 :root {
-  --main-bg-color: #383F51;
-  --main-text-color: #AB9F9D;
-  --main-title-color: #DDDBF1;
-  --secondary-bg-color: #3C4F76;
-  --secondary-title-color: #D1BEB0;
+  --main-bg-color: #272727;
+  --main-text-color: #101010;
+  --main-title-color: #b3243f;
+  --secondary-bg-color: #202020;
+  --secondary-title-color: #F2F4F3;
 }
 
 body {
