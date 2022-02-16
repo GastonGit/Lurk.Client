@@ -27,9 +27,3 @@ Because Chrome does not allow websites to autoplay unmuted videos, for more deta
 The streamer might have clip creation restricted to subscribers or has been explicitly filtered out.
 ### Why are all clips 30 seconds long? Why are some clips badly timed, ending abruptly or missing context?
 The official API for Twitch clips is currently very limited
-
-# Development
-## [Milestones](https://github.com/GastonGit/Hot-Twitch-Clips/milestones)
-## APIs
-- [Twitch](https://dev.twitch.tv/docs/api/reference)
-- [TMI.JS](https://github.com/tmijs/docs/tree/gh-pages/_posts/v1.4.2)
