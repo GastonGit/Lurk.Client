@@ -21,7 +21,7 @@ Server/backend can be found [here](https://github.com/GastonGit/Lurk.Server)
 5. Cycle the clips from the array on a website.
 
 # FAQ
-### Why do I have to manually unmute?
+### Why do I have to manually unmute and/or why does the video not autoplay?
 Because Chrome does not allow websites to autoplay unmuted videos, for more details see https://developers.google.com/web/updates/2017/09/autoplay-policy-changes
 ### Why does X streamer never show up?
 The streamer might have clip creation restricted to subscribers or has been explicitly filtered out.
